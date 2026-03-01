@@ -1,3 +1,1 @@
-# Sounds Folder
-
-This README file is for the sounds folder in the soundspack repository.
+# 경지니 전용 사운드 CDN
